@@ -2,7 +2,7 @@
 
 int main()
 {
-  cout<< "Hello"<<endl;
+  cout<< "Hello\n"<<endl;
   
   return 0;
 }
